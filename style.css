@@ -1,5 +1,12 @@
 /* styles.css - Let's make our web development journey fun and stylish! */
 
+h1{
+    color:olive
+}
+
+
+
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
