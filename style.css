@@ -1,11 +1,23 @@
 /* styles.css - Let's make our web development journey fun and stylish! */
 
-h1{
-    color:olive
+span{
+ font-weight: bold;
+}    
+
+.titles{
+    color:olive;
 }
 
+.lists{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
 
-
+#bigLink{
+    font-size: 20pt;
+}
 
 body {
     font-family: 'Arial', sans-serif;
